@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color:darkblue;
+}
+#sec1{
+  background-color: lightblue;
+}
+#first{
+    color:brown;
+}
+#second{
+   color: red; 
+}
+#h3{
+    text-align: left;
+   color:deepskyblue;
+}
+.brief1{
+    color:crimson; 
+}
+#sec2{
+   background-color: lime; 
+}
+.brief2{
+ color:darkviolet;   
+}
+#sec3{
+    background-color: lightseagreen
+}
+.brief3{
+    color: firebrick
+}
